@@ -1,0 +1,7 @@
+{
+  "name": "mfeCore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
