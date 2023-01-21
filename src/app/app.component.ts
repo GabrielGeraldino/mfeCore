@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   constructor() {}
+  url = 'http://localhost:4200/mfe.js';
 }
